@@ -1,4 +1,4 @@
-# 🚀 A/B Testing Framework for GPU Cloud Dashboard Optimization
+#  A/B Testing Framework for GPU Cloud Dashboard Optimization
 
 ![Dashboard Preview](Dashboard.png)
 
