@@ -103,7 +103,7 @@ Example output:
 
 ## Absolute Lift Visualization
 
-![Absolute Lift](Absolute Lift.png)
+![Absolute Lift](Absolute_Lift.png)
 
 ---
 
